@@ -2,10 +2,6 @@
 
 In this Repo I have added some C# code that is use the most for my Unity Projects. 
 
-## Getting Started
-
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
-
 ### Description of the code
 
 * **Mouselook** - *This code makes the Camera attached to the player a First Person Camera.* 
